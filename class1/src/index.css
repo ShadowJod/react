@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'MyFont1';
+  src: url('./assets/font1.woff');
+
+}
+
+@font-face {
+  font-family: 'MyFont2';
+  src: url('./assets/font2.woff');
+
+}
+
+@font-face {
+  font-family: 'MyFont3';
+  src: url('./assets/font3.woff2') ;
+ 
+}
+
+h1{
+    font-family: 'MyFont2'
+};
+
+p{
+  font-family: 'MyFont1'  
+}
+a{
+    font-family: 'MyFont1';
+}
