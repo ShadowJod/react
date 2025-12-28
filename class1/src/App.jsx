@@ -6,6 +6,8 @@ import Box from './Components/Box.jsx'
 import Branding from './Components/Branding.jsx'
 import Section1 from './Components/Section1.jsx'
 import Section2 from './Components/Section2.jsx'
+import Sticky from './Components/Sticky.jsx'
+import Footer from './Components/Footer.jsx'
 
 const App = () => {
   return (
@@ -21,6 +23,8 @@ const App = () => {
       <Branding/>
       <Section1/>
       <Section2/>
+      {/* <Sticky/> */}
+      <Footer/>
 
     </div>
   )
