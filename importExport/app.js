@@ -5,7 +5,7 @@ function hero(){
     
     return 'nikhil mishra';
     
-}
+} 
 
 export const user = 'nikhil';
 
